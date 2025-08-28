@@ -31,9 +31,6 @@ Prepare the data:
 Obtain historical stock price data for the desired stocks or indices.
 Collect relevant tweets or other sources of sentiment data.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any questions or inquiries, please contact navleenbhatia21@gmail.com.
 
